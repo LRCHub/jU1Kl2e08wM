@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "雨とペトラ / バルーン(cover) - Eve",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-26T15:46:02.904811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "バルーン",
+      "has_synced": true,
+      "path": "select/01_雨とペトラ_バルーン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "バルーン feat. v flower",
+      "has_synced": true,
+      "path": "select/02_雨とペトラ_バルーン_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_雨とペトラ_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "Vivid BAD SQUAD feat. 東雲彰人&青柳冬弥&鏡音レン",
+      "has_synced": true,
+      "path": "select/04_雨とペトラ_Vivid_BAD_SQUAD_feat._東雲彰人&青柳冬弥&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/05_雨とペトラ_balloon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_雨とペトラ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "uki3",
+      "has_synced": false,
+      "path": "select/07_雨とペトラ_uki3.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雨とペトラ / バルーン(cover) - Eve",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_雨とペトラ___バルーン(cover)_-_Eve_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨とペトラ",
+      "artist": "Eve×Sou",
+      "has_synced": true,
+      "path": "select/09_雨とペトラ_Eve×Sou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "雨とペトラ (feat. 東雲彰人&青柳冬弥&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/10_雨とペトラ_(feat._東雲彰人&青柳冬弥&鏡音レン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "雨とペトラ - Rain and Petra (feat. 東雲彰人&青柳冬弥&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/11_雨とペトラ_-_Rain_and_Petra_(feat._東雲彰人&青柳冬弥&鏡音レン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "雨とペトラ／flower",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/12_雨とペトラ_flower_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "雨とペトラ Prod. by 東京スカパラダイスオーケストラ",
+      "artist": "高畑充希",
+      "has_synced": true,
+      "path": "select/13_雨とペトラ_Prod._by_東京スカパラダイスオーケストラ_高畑充希.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨とペトラ",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_雨とペトラ_Eve.txt"
+    }
+  ]
+}
